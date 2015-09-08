@@ -6,5 +6,6 @@ overwolf/
 src/bower_components/
 release/
 cache/
+.idea/
 .DS_Store
 *.vim
